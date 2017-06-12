@@ -34,6 +34,7 @@ $(function () {
         text = "o cadastro em nome de " + nome + " cpf: " + cpf + " email: " + email + "nacimento: " + nacimento
 
         alert(text)
+        alert("este site e uma brincadeira nao tem transporte nenhum")
 
     }
     $("#contato").submit(enviardados)
